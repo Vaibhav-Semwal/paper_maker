@@ -1,0 +1,24 @@
+[
+  {
+    "grade":"Class 12",
+    "subject":"Mathematics",
+    "topics": [
+      "Relations and Functions",
+      "Algebra",
+      "Calculus",
+      "Linear Programming",
+      "Probability"
+    ]
+  },
+  {
+    "grade":"Class 11",
+    "subject":"Mathematics",
+    "topics": [
+      "Sets and Functions",
+      "Algebra",
+      "Calculus",
+      "Coordinate Geometry",
+      "Statistics and Probability"
+    ]
+  }
+]

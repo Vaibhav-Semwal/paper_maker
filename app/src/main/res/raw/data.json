@@ -1,0 +1,30 @@
+[
+  {
+    "Class": "Class 12",
+    "Subject": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "Class": "Class 11",
+    "Subject": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "Class": "Class 10",
+    "Subject": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "Class": "Class 9",
+    "Subject": [
+      "Mathematics",
+      "Physics"
+    ]
+  }
+]
